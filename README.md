@@ -146,7 +146,7 @@ Here are some of the key visualizations from the analysis:
 
 ```bash
 # 1. Clone the repository
-git clone <repository_url>
+git clone https://github.com/ItsJoelly/Uber-Trip-Analysis
 cd Uber-Trip-Analysis
 
 # 2. Install required packages
