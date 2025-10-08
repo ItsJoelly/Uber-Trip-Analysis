@@ -1,4 +1,4 @@
-# 🚕 Uber Trip Analysis – Data Science Project
+# 🚕 Uber Trip Analysis – Machine Learning Project
 
 A data science project exploring **Uber trip patterns**, including trip purpose, timing, distance traveled, and trends across days and months.
 
